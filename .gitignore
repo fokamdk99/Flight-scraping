@@ -1,0 +1,5 @@
+courses-scrape/
+node_modules/
+flights-venv/
+__pycache__/
+.vscode/
