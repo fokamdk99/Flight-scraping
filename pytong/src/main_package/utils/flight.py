@@ -10,3 +10,4 @@ class flight(object):
         self.end_airport_code = None
         self.stops = None
         self.total_time = None
+        self.price = None
